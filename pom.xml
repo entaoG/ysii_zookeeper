@@ -8,6 +8,7 @@
     <artifactId>ysii_zookeeper</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+	
     <properties>
         <maven.source.version>1.8</maven.source.version>
         <maven.target.version>1.8</maven.target.version>
